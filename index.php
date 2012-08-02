@@ -13,3 +13,15 @@
 	 
 ?>
 
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	
+	<p>this is spartaaa</p>	
+	<?php echo $this  ?>
+</body>
+</html>
