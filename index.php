@@ -10,6 +10,6 @@
 		echo $row["username"]."<br>";
 	} 
 
-	//added comment 
+	 
 ?>
 
