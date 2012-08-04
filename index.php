@@ -8,6 +8,7 @@
 <body>
 	<div class="wrapper">
 		<div class="slice">
+			<h1>SKOOLKAHOLIC</h1>
 			<p>
 			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
 			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
@@ -16,6 +17,7 @@
 		</p>
 		</div>
 		<div class="slice">
+			<h1>SKOOLKAHOLIC</h1>
 			<p>
 			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
 			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
@@ -24,6 +26,7 @@
 		</p>
 		</div>
 		<div class="slice">
+			<h1>SKOOLKAHOLIC</h1>
 			<p>
 			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
 			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
