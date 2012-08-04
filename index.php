@@ -1,28 +1,36 @@
-<?php 
-
-	mysql_connect("localhost","root","BGQRUR45PK") or die(mysql_error());
-	mysql_select_db("test") or die(mysql_error());
-
-
-	$query = mysql_query("SELECT * from test") or die(mysql_error());
-	while ($row = mysql_fetch_array($query))
-	{
-		echo $row["username"]."<br>";
-	} 
-
-	
-	 
-?>
-
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>template</title>
+	<link rel="stylesheet" type="text/css" href="style/style.css">
 </head>
 <body>
-	
-	<p>this is spartaaa</p>	
-	<?php echo $this  ?>
+	<div class="wrapper">
+		<div class="slice">
+			<p>
+			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
+			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
+			<br><br>
+			Build is back, baby.
+		</p>
+		</div>
+		<div class="slice">
+			<p>
+			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
+			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
+			<br><br>
+			Build is back, baby.
+		</p>
+		</div>
+		<div class="slice">
+			<p>
+			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
+			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
+			<br><br>
+			Build is back, baby.
+		</p>
+		</div>
+	</div>
 </body>
 </html>
