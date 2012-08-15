@@ -14,7 +14,16 @@
 			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
 			<br><br>
 			Build is back, baby.
-		</p>
+			</p>
+		</div>
+		<div class="slice">
+			<h1>THIS IS SPARTAA:</h1>
+			<p>
+			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
+			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
+			<br><br>
+			Build is back, baby.
+			</p>
 		</div>
 		<div class="slice">
 			<h1>SKOOLKAHOLIC</h1>
@@ -23,17 +32,16 @@
 			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
 			<br><br>
 			Build is back, baby.
-		</p>
-		</div>
-		<div class="slice">
-			<h1>SKOOLKAHOLIC</h1>
-			<p>
-			A conference, hands-on workshops, a day of practical, an evening of film, live music, 
-			evening lectures, a craft beer festival, a pub quiz, a pop-up shop, markets, exhibitions, meetups and parties.
-			<br><br>
-			Build is back, baby.
-		</p>
+			</p>
 		</div>
 	</div>
+
 </body>
 </html>
+
+
+
+
+
+
+
